@@ -1,0 +1,5 @@
+# Large artifacts (> 100 MB)
+# GitHub imposes a max filesize of 100 MB, so these two artifacts (which were
+# each over 1 GB in size) are not stored in the repository.
+For-R2D2/demux-filtered.qza
+For-R2D2/demux-paired-end.qza
