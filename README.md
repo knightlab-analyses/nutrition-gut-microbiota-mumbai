@@ -24,7 +24,9 @@ These data were subject to cross-checking and confirmation by the Cornell Instit
 ## References
 
 (1) Huey SL, Jiang L, Fedarko M, McDonald D, Martino C, Ali F, Russell DG, Udipi SA, Thorat AT, Thakker V, Ghugre P, Potdar RD, Chopra H, Rajagopalan K, Haas JD, Finkelstein JL, Knight R, Mehta S. "Nutrition and the gut microbiota among 10–18-month-old children living in urban slums of Mumbai, India."
+
 (2) https://clinicaltrials.gov/ct2/show/NCT02233764
+
 (3) Mehta, S., Finkelstein, J. L., Venkatramanan, S., Huey, S. L., Udipi, S. A., Ghugre, P., ...  Haas, J. D. (2017). "Effect of iron and zinc-biofortified pearl millet consumption on growth and immune competence in children aged 12–18 months in India: study protocol for a randomised controlled trial." _BMJ Open, 7_(11), e017631. https://doi.org/10.1136/bmjopen-2017-017631
 
 
