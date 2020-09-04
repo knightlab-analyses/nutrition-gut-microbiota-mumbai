@@ -26,6 +26,18 @@ repository: as is documented in the `.gitignore` file, `demux-filtered.qza` and
 `demux-paired-end.qza` are large files from early on in the data processing
 that are larger than 100 MB (and therefore [not apparently storable on GitHub](https://stackoverflow.com/a/59479166/10730311)).
 
+### Direct links to [q2view](https://view.qiime2.org/) for some QZV files (visualizations)
+
+These links will load the visualization in your browser. In general, you can access any of the QZV files in this repository by going to a URL formatted like:
+
+`https://view.qiime2.org/visualization/?src=https://raw.githubusercontent.com/knightlab-analyses/nutrition-gut-microbiota-mumbai/master/PATH/TO/FILE.qzv`
+
+(Replacing `PATH/TO/FILE.qzv` with the path to the QZV file you want to view.)
+
+- [Feature Table Summary](https://view.qiime2.org/visualization/?src=https://raw.githubusercontent.com/knightlab-analyses/nutrition-gut-microbiota-mumbai/master/table.qzv)
+- [DEICODE biplot](https://view.qiime2.org/visualization/?src=https://raw.githubusercontent.com/knightlab-analyses/nutrition-gut-microbiota-mumbai/master/diversity/deicode/biplot25.qzv)
+- [Qurro plot](https://view.qiime2.org/visualization/?src=https://raw.githubusercontent.com/knightlab-analyses/nutrition-gut-microbiota-mumbai/master/diversity/qurro/qurro-plot.qzv)
+
 ### References
 
 (1) Huey SL, Jiang L, Fedarko M, McDonald D, Martino C, Ali F, Russell DG, Udipi SA, Thorat AT, Thakker V, Ghugre P, Potdar RD, Chopra H, Rajagopalan K, Haas JD, Finkelstein JL, Knight R, Mehta S. "Nutrition and the gut microbiota among 10&ndash;18-month-old children living in urban slums of Mumbai, India."
