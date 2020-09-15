@@ -35,6 +35,7 @@ These links will load the visualization in your browser. In general, you can acc
 (Replacing `PATH/TO/FILE.qzv` with the path to the QZV file you want to view.)
 
 - [Feature Table Summary](https://view.qiime2.org/visualization/?src=https://raw.githubusercontent.com/knightlab-analyses/nutrition-gut-microbiota-mumbai/master/table.qzv)
+- [Taxonomic bar plot (with classified mitochondria / chloroplasts filtered)](https://view.qiime2.org/visualization/?src=https://raw.githubusercontent.com/knightlab-analyses/nutrition-gut-microbiota-mumbai/master/no-mitochondria-no-chloroplast-insertion-taxa-bar-plots.qzv)
 - [DEICODE biplot](https://view.qiime2.org/visualization/?src=https://raw.githubusercontent.com/knightlab-analyses/nutrition-gut-microbiota-mumbai/master/diversity/deicode/biplot25.qzv)
 - [Qurro plot](https://view.qiime2.org/visualization/?src=https://raw.githubusercontent.com/knightlab-analyses/nutrition-gut-microbiota-mumbai/master/diversity/qurro/qurro-plot.qzv)
 
